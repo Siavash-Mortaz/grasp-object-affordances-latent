@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data artifacts
+/data/
+!data/.gitkeep
+*.pkl
+*.npz
+*.npy
+*.pt
+*.pth
+
+# Plots and outputs (allow images in assets/ and docs/)
+outputs/
+figures/
+*.log
+
+# Do NOT ignore images/docs under these folders
+!assets/**
+!docs/**
+
+# IDE
+.vscode/
+.idea/
