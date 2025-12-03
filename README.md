@@ -12,7 +12,7 @@ This repository provides a complete pipeline for extracting, preprocessing, and 
 
 *Authors:* Siavash Mortaz Hejri, Hamed Pourfannan, Ruidong Ma, Alejandro Jimenez Rodriguez, Alessandro Di Nuovo
 
-📄 [Paper PDF](docs/paper.pdf) | 📊 [Poster](docs/LM2025.pptx) | 🎯 [Conference Posters](https://livingmachinesconference.eu/2025/posters/)  
+📄 [Paper PDF](docs/paper.pdf) | 📊 [Poster](docs/LM2025.pdf) | 🎯 [Conference Posters](https://livingmachinesconference.eu/2025/posters/)  
 🔗 [Springer Link](https://link.springer.com/chapter/10.1007/978-3-032-07448-5_35) | [DOI](https://doi.org/10.1007/978-3-032-07448-5_35)
 
 **Conference:** Biomimetic and Biohybrid Systems (Living Machines 2025)  
